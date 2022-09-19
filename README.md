@@ -1,6 +1,6 @@
 <img src = "giphy_2.gif" width = "325px" align = "right">
 
-# Seja bem vindo e bem vinda ao meu GitHub!
+# Seja Bem Vindos ao meu GitHub!
 
   <div id="badges">
   <a href = "https://www.linkedin.com/in/marcos-moreira-b75a7538">
