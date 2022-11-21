@@ -13,9 +13,9 @@
 </div>
 
 Dev em Formação
-- ❤ Estudante de Html5 & Css3
+- ❤ Estudante de Html5 | Css3 | PostGre | AWS
 - 💙 Fã da Alura
-- 👩‍💻 Aprendendo algo sobre UI/UX
+- 👩‍💻 Aprendendo algo sobre Banco de Dados
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
