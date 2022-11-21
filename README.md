@@ -13,7 +13,7 @@
 </div>
 
 Dev em Formação
-- ❤ Estudante de Html5 | Css3 | PostGre | AWS
+- ❤ Estudante de Html5 | Css3 | PostGreSQL | AWS
 - 💙 Fã da Alura
 - 👩‍💻 Aprendendo algo sobre Banco de Dados
 
